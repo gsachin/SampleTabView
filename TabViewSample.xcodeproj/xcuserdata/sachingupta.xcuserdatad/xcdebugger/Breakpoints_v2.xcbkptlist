@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EA9C0881-3EC1-46F5-8FE7-6EC77F16E356"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA8BF092-AF19-4FEF-9798-B194E0F0CAFB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabViewSample/TabViewSample.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "selectedTab"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EA8BF092-AF19-4FEF-9798-B194E0F0CAFB - 4f04a4aedc215a85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabViewSample.TabViewSampleModel.__allocating_init() -&gt; TabViewSample.TabViewSampleModel"
+                  moduleName = "TabViewSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachingupta/R&amp;D/TabViewSample/TabViewSample/TabViewSample.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "EA8BF092-AF19-4FEF-9798-B194E0F0CAFB - a1ce07ede0460ce3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabViewSample.TabViewSampleModel.deinit"
+                  moduleName = "TabViewSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachingupta/R&amp;D/TabViewSample/TabViewSample/TabViewSample.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "EA8BF092-AF19-4FEF-9798-B194E0F0CAFB - 67c951c2b79bbc56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabViewSample.TabViewSampleModel.__deallocating_deinit"
+                  moduleName = "TabViewSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachingupta/R&amp;D/TabViewSample/TabViewSample/TabViewSample.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "EA8BF092-AF19-4FEF-9798-B194E0F0CAFB - 9728fdb5ac619c1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabViewSample.TabViewSampleModel.init() -&gt; TabViewSample.TabViewSampleModel"
+                  moduleName = "TabViewSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachingupta/R&amp;D/TabViewSample/TabViewSample/TabViewSample.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "114">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BF5A61F-8E47-424E-9702-0124B20BCEBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabViewSample/TabViewSample.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "selectedTab"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8BF5A61F-8E47-424E-9702-0124B20BCEBF - 4f04a4aedc215a85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabViewSample.TabViewSampleModel.__allocating_init() -&gt; TabViewSample.TabViewSampleModel"
+                  moduleName = "TabViewSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachingupta/R&amp;D/TabViewSample/TabViewSample/TabViewSample.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "8BF5A61F-8E47-424E-9702-0124B20BCEBF - a1ce07ede0460ce3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabViewSample.TabViewSampleModel.deinit"
+                  moduleName = "TabViewSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachingupta/R&amp;D/TabViewSample/TabViewSample/TabViewSample.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8BF5A61F-8E47-424E-9702-0124B20BCEBF - 67c951c2b79bbc56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabViewSample.TabViewSampleModel.__deallocating_deinit"
+                  moduleName = "TabViewSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachingupta/R&amp;D/TabViewSample/TabViewSample/TabViewSample.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8BF5A61F-8E47-424E-9702-0124B20BCEBF - 9728fdb5ac619c1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabViewSample.TabViewSampleModel.init() -&gt; TabViewSample.TabViewSampleModel"
+                  moduleName = "TabViewSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachingupta/R&amp;D/TabViewSample/TabViewSample/TabViewSample.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "114">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
